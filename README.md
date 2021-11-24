@@ -5,4 +5,4 @@ The goal is to name as many states as possible.
 Once you've added a state and it actually exists it gets added to the map.
 A new csv file is then generated of the missed states.
 
-![Screenshot 2021-10-15 22:52:22](https://user-images.githubusercontent.com/63019595/137571689-84202523-4acb-4b32-b6cd-2a71e855bbb5.png)
+https://user-images.githubusercontent.com/63019595/143312312-1fcbe39d-7366-497a-b68d-76e9c39d223c.mp4
